@@ -10,3 +10,6 @@ dependencies:
 - name: jenkinx-test
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: spring-boot-test-jenkinsx
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.0
